@@ -1,5 +1,5 @@
 import { showErrorDialog } from "../../../helpers/toolsHelper";
-import userApi from "../api/UserApi";
+import userApi from "../api/userApi";
 
 export const ActionType = {
   SET_USERS: "SET_USERS",
