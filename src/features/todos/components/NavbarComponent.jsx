@@ -8,7 +8,7 @@ function NavbarComponent({ profile, handleLogout }) {
             alt="Logo"
             style={{ width: "36px", height: "36px" }}
           />
-          Todo List
+          Aplikasi Todo List
         </a>
         <button
           className="navbar-toggler"
