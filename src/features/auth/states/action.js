@@ -3,7 +3,7 @@ import {
   showErrorDialog,
   showSuccessDialog,
 } from "../../../helpers/toolsHelper";
-import authApi from "../api/AuthApi";
+import authApi from "../api/authApi";
 
 export const ActionType = {
   SET_IS_AUTH_LOGIN: "SET_IS_AUTH_LOGIN",
